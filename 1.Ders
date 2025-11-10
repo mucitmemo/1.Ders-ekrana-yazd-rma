@@ -1,0 +1,8 @@
+#include <iostream> // Her kodda olur . (<iostream> = giriş çıkış Kütüphanesi)
+
+int main() {   // Her kodda olur . (main = Ana)
+
+    std::cout << "Hi Github "; // Tercihe göre olur (ekrana yazdırma  not: kütüphane, int main ve yorum satırları haricinde bütün satırların sonuna ( ; ) gelir.)
+
+    return 0; // Tekrarlama işlevidir.
+}
