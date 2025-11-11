@@ -1,0 +1,10 @@
+#include <iostream>
+
+int main() {
+int yas; //int sayılar için bir değişkendir.
+char   cins, karakter; // char karakterler için bir değişkendir.
+float  sicaklik, maas; // float kısa küsürlü sayılar bir değişkendir.
+double degisken; // double uzun küsürlü sayılariçin bir değişkendir.
+
+    return 0;
+}
