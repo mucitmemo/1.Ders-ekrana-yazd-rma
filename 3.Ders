@@ -1,0 +1,8 @@
+#include <iostream> 
+
+int main() {
+    std::cout << "github"; // yazdırmak
+int github; // sayı değişkeni
+std::cin >> github ; // giriş (ne yazdıysan o)
+    return 0;
+}
