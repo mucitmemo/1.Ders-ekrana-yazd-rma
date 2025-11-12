@@ -1,0 +1,10 @@
+#include <iostream>
+
+using namespace std;//her türlü std komutlarını kısaltan satır
+
+int main() {
+        for (int i = 1; i <= 5; ++i) { // for döngüsü (değişken tanımlama;karar;iş)
+        cout << i << " ";//i değişkeni yazdırma
+    }
+    return 0;
+}
